@@ -104,3 +104,8 @@ ma być większa od 10000.<br>
   <b>Opis defektu: </b>Token nie zostało zdefiniowane w specyfikacji<br><br>
 </ol>
 
+<h1>Przypadki testowe dla zadania 1</h1>
+Przygotuj przypadki testowe i je wykonaj na formularzu rejestracji konta w zadaniu 1.
+
+
+<li><a href="https://docs.google.com/spreadsheets/d/1Z-F4SsUmXuszKt2wacWSPXIB6owTQxl3LnhGD5h382U/edit?hl=pl#gid=0">Arkusz google</a></li>
