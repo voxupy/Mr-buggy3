@@ -106,6 +106,7 @@ ma być większa od 10000.<br>
 
 <h1>Przypadki testowe dla zadania 1</h1>
 Przygotuj przypadki testowe i je wykonaj na formularzu rejestracji konta w zadaniu 1.
+![zadanie1](zad1.JPG)
 
 
 <li><a href="https://docs.google.com/spreadsheets/d/1Z-F4SsUmXuszKt2wacWSPXIB6owTQxl3LnhGD5h382U/edit?hl=pl#gid=0">Arkusz google</a></li>
