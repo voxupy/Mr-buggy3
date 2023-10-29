@@ -3,7 +3,7 @@
 
 
 <h1>Testowanie dokumentacji</h1>
-<li><a href="">LINK DO DOKUMENTACJI</a></li>
+<li><a href="http://mrbuggy.pl/mrbuggy3/dfiles/Specyfikacja_Mr_Buggy_3.pdf">LINK DO DOKUMENTACJI</a></li>
 <br>
 <ol>
  <li>▶️<b>ID-01</b></li>
